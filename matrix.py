@@ -1,5 +1,4 @@
 import numpy as np
-import pandas as pd
 import os.path
 from IPython.display import clear_output
 import time
@@ -46,4 +45,3 @@ gen_matrix(baris,kolom)
 print(' {} s'.format(time.time() - starttime))
 # f = open("file.txt", "r")
 # print(f.read())
-# print(baris,kolom)
