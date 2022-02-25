@@ -15,3 +15,11 @@ requirements
 opencv
 apng
 ```
+
+## totalrgb.py
+>get total rgb from image
+
+requirements
+```
+PIL
+```
